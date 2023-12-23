@@ -1,7 +1,7 @@
 import React from "react";
 import { FcGoogle } from "react-icons/fc";
 import { useState, useEffect } from "react";
-import { auth } from "@/firebase/firebase";
+import { auth } from "../firebase/firebase";
 import {
     createUserWithEmailAndPassword,
     updateProfile,

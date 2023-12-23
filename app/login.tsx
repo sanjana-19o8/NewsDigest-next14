@@ -51,7 +51,7 @@ const LoginForm = () => {
                 <div className="p-8 w-[600px]">
                     <h1 className="text-6xl font-semibold">Login</h1>
                     <p className="mt-6 ml-1">
-                        Don't have an account ?{" "}
+                        Don&apos;t have an account ?{" "}
                         <Link
                             href="/register"
                             className="underline hover:text-blue-400 cursor-pointer"

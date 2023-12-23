@@ -10,6 +10,8 @@ const Loader = () => {
                 alt="Loading..."
                 src="/loader.svg"
             />
+            <h1>The NEWS Digest</h1>
+            <span>Your one stop shop for all the latest coverage</span>
         </div>
     );
 };
